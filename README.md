@@ -1,3 +1,3 @@
 # Projekt-cpp
-projek z c++
+projek z c++  
 Program do obliczania parametrów trójkąta
