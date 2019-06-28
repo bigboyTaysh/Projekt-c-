@@ -1,0 +1,182 @@
+# depslib dependency file v1.0
+1514288105 source:c:\users\pc\desktop\informatyka\lab\lab13\projekt\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1515765083 source:c:\users\pc\desktop\informatyka\projekt\main.cpp
+	<iostream>
+	"funkcje.hpp"
+
+1514815798 source:c:\users\msik\desktop\cpp\projekt\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<math.h>
+	<iomanip>
+	<conio.h>
+
+1514572317 source:c:\users\msik\desktop\cpp\test\untitled3.cpp
+	<iostream>
+
+1514737084 source:c:\users\msik\desktop\cpp\projekt\resource.rc
+
+1514783958 source:c:\users\pc\desktop\informatyka\projekt\resource.rc
+
+1515760657 c:\users\pc\desktop\informatyka\projekt\funkcje.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<math.h>
+	<iomanip>
+	<conio.h>
+
+1516963751 source:c:\users\pc\desktop\informatyka\projekt\funkcje.cpp
+	"funkcje.hpp"
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<math.h>
+	<iomanip>
+	<conio.h>
+
+1516962184 c:\users\pc\desktop\informatyka\projekt\funkcje.hpp
+
+1515763538 source:c:\users\pc\desktop\informatyka\projekt\menu.cpp
+	"funkcje.hpp"
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<math.h>
+	<iomanip>
+	<conio.h>
+
+1515764624 source:c:\users\pc\desktop\informatyka\projekt\menu1.cpp
+	"funkcje.hpp"
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<math.h>
+	<iomanip>
+	<conio.h>
+
+1516960821 source:c:\users\pc\desktop\informatyka\projekt\mainmenu.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+
+1516960855 source:c:\users\pc\desktop\informatyka\projekt\menulosowe.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+
+1516962182 source:c:\users\pc\desktop\informatyka\projekt\menuwczytaj.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+
+1517071509 source:c:\users\paulina\desktop\projekt\funkcje.cpp
+	"funkcje.hpp"
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<math.h>
+	<iomanip>
+	<conio.h>
+
+1517071411 c:\users\paulina\desktop\projekt\funkcje.hpp
+	<string>
+
+1517071238 source:c:\users\paulina\desktop\projekt\main.cpp
+	<iostream>
+	"funkcje.hpp"
+
+1517064595 source:c:\users\paulina\desktop\projekt\mainmenu.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1517072553 source:c:\users\paulina\desktop\projekt\menulosowe.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1517064670 source:c:\users\paulina\desktop\projekt\menuwczytaj.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1514783958 source:c:\users\paulina\desktop\projekt\resource.rc
+
+1517072858 source:c:\users\paulina\desktop\projekt\menupodanie.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1517071509 source:c:\users\paulina\desktop\projekt(bez komentarza)\funkcje.cpp
+	"funkcje.hpp"
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<math.h>
+	<iomanip>
+	<conio.h>
+
+1517071411 c:\users\paulina\desktop\projekt(bez komentarza)\funkcje.hpp
+	<string>
+
+1517071238 source:c:\users\paulina\desktop\projekt(bez komentarza)\main.cpp
+	<iostream>
+	"funkcje.hpp"
+
+1517064595 source:c:\users\paulina\desktop\projekt(bez komentarza)\mainmenu.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1517072553 source:c:\users\paulina\desktop\projekt(bez komentarza)\menulosowe.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1517072858 source:c:\users\paulina\desktop\projekt(bez komentarza)\menupodanie.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1517072871 source:c:\users\paulina\desktop\projekt(bez komentarza)\menuwczytaj.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1514783958 source:c:\users\paulina\desktop\projekt(bez komentarza)\resource.rc
+

@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1517071509 source:c:\users\paulina\desktop\projekt(bez komentarza)\funkcje.cpp
+	"funkcje.hpp"
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<math.h>
+	<iomanip>
+	<conio.h>
+
+1517071411 c:\users\paulina\desktop\projekt(bez komentarza)\funkcje.hpp
+	<string>
+
+1517071238 source:c:\users\paulina\desktop\projekt(bez komentarza)\main.cpp
+	<iostream>
+	"funkcje.hpp"
+
+1517064595 source:c:\users\paulina\desktop\projekt(bez komentarza)\mainmenu.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1517072553 source:c:\users\paulina\desktop\projekt(bez komentarza)\menulosowe.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1517072858 source:c:\users\paulina\desktop\projekt(bez komentarza)\menupodanie.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1517072871 source:c:\users\paulina\desktop\projekt(bez komentarza)\menuwczytaj.cpp
+	"funkcje.hpp"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1514783958 source:c:\users\paulina\desktop\projekt(bez komentarza)\resource.rc
+
